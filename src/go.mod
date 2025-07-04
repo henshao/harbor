@@ -11,6 +11,10 @@ require (
 	github.com/aws/aws-sdk-go v1.55.6
 	github.com/beego/beego/v2 v2.3.6
 	github.com/beego/i18n v0.0.0-20140604031826-e87155e8f0c0
+	github.com/uptrace/bun v1.1.16
+	github.com/uptrace/bun/driver/pgdriver v1.1.16
+	github.com/uptrace/bun/dialect/pgdialect v1.1.16
+	github.com/uptrace/bun/extra/bundebug v1.1.16
 	github.com/bmatcuk/doublestar v1.3.4
 	github.com/casbin/casbin v1.9.1
 	github.com/cenkalti/backoff/v4 v4.3.0
